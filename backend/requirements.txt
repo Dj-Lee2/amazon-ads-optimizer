@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.36
+pydantic==2.9.2
+numpy==2.1.2
+pandas==2.2.3
+scikit-learn==1.5.2
+scipy==1.14.1
+PuLP==2.9.0
+faker==30.3.0
